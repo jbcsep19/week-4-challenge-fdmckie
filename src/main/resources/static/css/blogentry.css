@@ -1,0 +1,46 @@
+html {
+    background-color: steelblue;
+}
+
+footer {
+    background-color: white;
+}
+
+
+div {
+    /*text-align: center;*/
+    background-color: lightblue;
+    border-color: steelblue;
+}
+
+
+hr {
+    color: yellow;
+    border-width: 5px;
+}
+
+h1 {
+    text-align: center;
+
+}
+
+#homepagetitle {
+    font-size: 24px;
+    text-align: center;
+}
+
+#titlecenter {
+    text-align: center;
+}
+
+.container{
+    color: white;
+    width: 50%;
+
+}
+
+table {
+    alignment: center;
+}
+
+
